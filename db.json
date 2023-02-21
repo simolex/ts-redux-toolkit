@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "dsdsadssd",
+      "body": "koliy-1"
+    },
+    {
+      "id": 4,
+      "title": "jserver-1",
+      "body": "koliy-1"
+    },
+    {
+      "id": 5,
+      "title": "jserver-1",
+      "body": "koliy-1"
+    },
+    {
+      "id": 6,
+      "title": "jserver-1",
+      "body": "koliy-1"
+    },
+    {
+      "id": 7,
+      "title": "jserver-1",
+      "body": "koliy-1"
+    },
+    {
+      "id": 8,
+      "title": "jserver-1",
+      "body": "koliy-1"
+    },
+    {
+      "id": 9,
+      "title": "jserver-1",
+      "body": "koliy-1"
+    },
+    {
+      "title": "dsfsdfsdf",
+      "body": "dsfsdfsdf",
+      "id": 10
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "koliy-1"
+  }
+}
